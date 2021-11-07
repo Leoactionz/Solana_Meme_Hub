@@ -5,3 +5,5 @@ myepicproject
 test-ledger
 package-lock.json
 keypair.json
+# Local Netlify folder
+.netlify
