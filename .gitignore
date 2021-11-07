@@ -2,8 +2,7 @@ node_modules
 .DS_STORE
 .vscode
 myepicproject
-test-ledger
 package-lock.json
-keypair.json
+
 # Local Netlify folder
 .netlify
